@@ -38,7 +38,7 @@
     "gsap": "^2.0.1",
     "html-to-draftjs": "^1.4.0",
     "html-webpack-plugin": "2.29.0",
-    "jest": "20.0.4",
+    "jest": "29.6.1",
     "mobx": "^5.0.3",
     "mobx-react": "^5.2.3",
     "nprogress": "^0.2.0",
